@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(46, 42, 42);
+}
+.calculator{
+    text-align: center;
+
+}
+div{
+    margin-left:550px;
+padding:30px;
+    background-color: black;
+    display: inline-block;
+    border-radius:30px;
+}
+div table tr td input{
+    width:40px;
+    height:40px;
+    border-radius:50%;
+}
+
